@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Deep learning has revolutionized various fields, from computer vision to natural language processing. At the heart of deep learning lies the neural network, a computational model inspired by the human brain. In this blog post, we'll explore the basics of neural networks, their architecture, and how they learn. 
+Deep learning has revolutionized various fields, from computer vision to natural language processing. At the heart of deep learning lies the neural network, a computational model inspired by the human brain. In this blog post, we'll explore the basics of neural networks, their architecture, and how they learn.
 
 ## What is a Neural Network?
 
@@ -70,3 +70,5 @@ Transformers are a type of neural network architecture designed for handling seq
 ## Conclusion
 
 Neural networks are a powerful tool in the realm of machine learning, capable of modeling complex patterns in data. From their basic structure to advanced architectures like CNNs and transformers, they have shown immense potential in various applications. As research continues to evolve, the capabilities of neural networks are likely to expand, opening new frontiers in AI and deep learning.
+
+### Test1
